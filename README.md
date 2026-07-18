@@ -1,7 +1,10 @@
  # Diana Touch-RL：双臂机器人强化学习触碰目标体（V8 最终版）
 
 
-演示视频：`demos/touch_demo.mp4`（外链，链接待补充）
+## 演示视频
+
+[[Diana 左臂触碰 demo]](https://www.bilibili.com/video/BV123KF64EVm?t=1.7)
+
 
 ## 任务定义
 
