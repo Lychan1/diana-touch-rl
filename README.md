@@ -93,8 +93,8 @@ python scripts/eval.py
 
 ## 资源（大文件外链）
 
-- USD 场景 `rlenvnewv8.usd` 与机器人资产 → 见 Release / HuggingFace（链接待补）
-- 演示视频 `demos/touch_demo.mp4` → 链接待补
+- USD 场景 `rlenvnewv8.usd` 与机器人资产 → 见 Releasesha256:9162d1ab55fffbb07cc8adc2f5466b849391f8a61e55352be24d6da9c0282397
+- 演示视频 `demos/touch_demo.mp4` → (https://www.bilibili.com/video/BV123KF64EVm?t=1.7)
 
 ## 踩坑记录（节选自周记）
 
