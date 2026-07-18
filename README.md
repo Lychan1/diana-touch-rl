@@ -51,7 +51,8 @@ reward = 进度奖励(progress) + 新纪录奖励(record) + 距离惩罚(-0.3·d
 仓库已附带训练好的模型 `checkpoints/diana_touch.zip`（即原 `diana_v8_ppo.zip`，V8 最终版）。
 在 Linux + Isaac Sim 环境中运行评估即可得出下表：
 
-c:\Users\31777\Documents\xwechat_files\wxid_bjqt1h9h4ljd22_9978\temp\RWTemp\2026-07\9e20f478899dc29eb19741386f9343c8\e357d559ea9264b1b13505264c9431ce.png
+<img width="310" height="182" alt="e357d559ea9264b1b13505264c9431ce" src="https://github.com/user-attachments/assets/238dd8d9-ced6-41f9-8563-ba8c03507cf5" />
+
 
 
 
