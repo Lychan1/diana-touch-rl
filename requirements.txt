@@ -1,0 +1,7 @@
+# Isaac Sim 不是普通 pip 包，需按官方文档在 Isaac Sim 的 Python 环境中使用
+# 参见 https://docs.isaacsim.omniverse.nvidia.com/
+isaacsim>=4.5.0
+stable-baselines3
+gymnasium
+numpy
+tensorboard

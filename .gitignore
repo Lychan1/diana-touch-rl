@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.isaac_sim_cache/
+logs/
+
+# 大文件（USD 场景、机器人资产、演示视频）走外链，不进仓库
+*.usd
+*.mp4
+
+# 但保留训练好的 demo 模型（小，约 900KB，作为任务闭环证明）
+!checkpoints/diana_touch.zip

@@ -1,0 +1,14 @@
+# PPO 超参数（对应 scripts/train.py，V8 触碰任务最终版）
+algorithm: PPO
+policy: MlpPolicy
+total_timesteps: 200000
+learning_rate: 3e-4
+n_steps: 2048
+batch_size: 128
+ent_coef: 0.01
+net_arch: [256, 128]
+checkpoint_freq: 10000
+max_steps_per_episode: 200
+success_distance: 0.12        # 指尖(left_Link9)到目标 < 0.12m 判触碰成功（含方块半径，对齐物理碰撞）
+action_scale: 0.05            # 每步关节位置增量缩放
+active_dof_indices: [0, 2, 4, 6, 8, 10, 12]
